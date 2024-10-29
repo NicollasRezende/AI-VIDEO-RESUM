@@ -27,7 +27,7 @@ Antes de executar o projeto, você precisa ter instalado:
 Instale as bibliotecas necessárias com o seguinte comando:
 
 ```bash
-pip install yt-dlp openai git+https://github.com/openai/whisper.git
+pip install requirements.txt
 ```
 
 ## Configuração
