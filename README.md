@@ -89,14 +89,3 @@ Este projeto é licenciado sob a MIT License - consulte o arquivo [LICENSE](LICE
 ## Contato
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
-
-```
-
-### Como Usar
-
-1. **Salve o conteúdo acima em um arquivo chamado `README.md` na raiz do seu projeto.**
-2. **Substitua `seu_usuario/seu_repositorio` pela URL correta do seu repositório no GitHub.**
-3. **Insira sua chave de API no arquivo `gerar_resumo.py`.**
-
-Sinta-se à vontade para personalizar qualquer parte do documento conforme necessário!
-```
