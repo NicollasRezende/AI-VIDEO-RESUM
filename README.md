@@ -71,21 +71,3 @@ pip install requirements.txt
 ├── gerar_resumo.py       # Script para gerar o resumo do texto
 └── main.py               # Script principal para executar o projeto
 ```
-
-## Contribuição
-
-Sinta-se à vontade para contribuir com melhorias ou correções. Para isso, siga os passos abaixo:
-
-1. Faça um fork do repositório.
-2. Crie uma nova branch (`git checkout -b feature/nome-da-feature`).
-3. Faça suas alterações e commit (`git commit -m 'Adiciona nova feature'`).
-4. Envie a branch (`git push origin feature/nome-da-feature`).
-5. Abra um Pull Request.
-
-## Licença
-
-Este projeto é licenciado sob a MIT License - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Contato
-
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
